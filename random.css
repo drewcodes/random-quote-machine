@@ -1,0 +1,40 @@
+body {
+    background-color: #376bf8;
+    color: black;
+}
+
+.main-box {
+    max-width: 550px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.author {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.quote-machine {
+    padding: 20px;
+    font-family: Avenir;
+    color: white;
+}
+
+.quotes {
+    background-color: white;
+    height: auto;
+    width: auto;
+    padding: 20px;
+}
+
+footer {
+    padding: 10px;
+    font-family: tahoma;
+    color: white;
+}
+footer > a {
+    color: white;
+    text-decoration: none;
+}
